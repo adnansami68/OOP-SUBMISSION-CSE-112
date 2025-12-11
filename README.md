@@ -49,7 +49,7 @@ These solutions are created for **educational purposes** and personal practice. 
 
 ### 👤 Author
 
-**Adnan Sami**
+**Md. Adnan Sami**
 <br>
 Student, Dept. of CSE
 <br>
