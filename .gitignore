@@ -1,0 +1,46 @@
+# ==========================
+# C++ Compiled Object Files
+# ==========================
+*.d
+*.o
+*.obj
+*.test
+
+# ==========================
+# Executables (Output Files)
+# ==========================
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# ==========================
+# Build & Debug Directories
+# ==========================
+Debug/
+Release/
+build/
+bin/
+obj/
+x64/
+x86/
+
+# ==========================
+# IDE & Editor Configuration
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.layout
+*.depend
+*.user
+
+# ==========================
+# OS Generated System Files
+# ==========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
